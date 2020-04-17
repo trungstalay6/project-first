@@ -1,0 +1,12 @@
+.text-center{text-align: center;}
+.text-left{text-align: left;}
+.text-right{text-align:right;}
+.text-justify{text-align: justify;}
+.float-left {float: left;}
+.float-right{float: right;}
+.text-decoration{text-decoration: none;
+}
+.text-node-nocolor{text-decoration: none;
+color:#111111;}
+.text-list-none{list-style-type: none;}
+a *{color:black;}
